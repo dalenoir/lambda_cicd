@@ -1,4 +1,4 @@
-# lambda_cicd# AWS Lambda CI/CD Pipeline with GitHub Actions
+AWS Lambda CI/CD Pipeline with GitHub Actions
 
 ## Project Overview
 
